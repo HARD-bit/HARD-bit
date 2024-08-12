@@ -43,13 +43,16 @@ the knowledge and skill set of team members by over 30%.
 3 minutes.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Automotive Market Data Analysis
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+#### Description:
+In this project, I developed a code-based solution to extract and analyze key information related to the automotive market. The objective was to gather relevant data from various sources, process it, and generate insights into market trends, consumer preferences, and competitive landscapes.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Using the SQL programming languages, applied on Data Cloud System like Salesforces, I implemented data scraping techniques to collect information on vehicle models, pricing, sales figures, and other industry-specific metrics. The data was then cleaned, organized, and analyzed to identify patterns and opportunities within the automotive sector.
 
+The final outcome was a set of visualizations and reports that provided a clear overview of the market's current state and potential future developments. This project not only enhanced my coding skills but also deepened my understanding of the automotive industry's dynamics.
+
+Skills and Tools: Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
@@ -57,15 +60,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 
 
