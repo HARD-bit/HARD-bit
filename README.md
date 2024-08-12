@@ -53,12 +53,7 @@ Using the SQL programming languages, applied on Data Cloud System like Salesforc
 The final outcome was a set of visualizations and reports that provided a clear overview of the market's current state and potential future developments. This project not only enhanced my coding skills but also deepened my understanding of the automotive industry's dynamics.
 
 Skills and Tools: Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+[https://github.com/HARD-bit/SQL/tree/main]
 
 
 
