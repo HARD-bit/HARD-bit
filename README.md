@@ -53,7 +53,8 @@ Using the SQL programming languages, applied on Data Cloud System like Salesforc
 The final outcome was a set of visualizations and reports that provided a clear overview of the market's current state and potential future developments. This project not only enhanced my coding skills but also deepened my understanding of the automotive industry's dynamics.
 
 Skills and Tools: Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
-[https://github.com/HARD-bit/SQL/tree/main]
+
+[SQL codes collection ] (https://github.com/HARD-bit/SQL/tree/main)
 
 
 
