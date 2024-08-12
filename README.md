@@ -54,7 +54,7 @@ The final outcome was a set of visualizations and reports that provided a clear 
 
 Skills and Tools: Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
 
-[SQL codes collection ] (https://github.com/HARD-bit/SQL/tree/main)
+SQL codes collection https://github.com/HARD-bit/SQL/tree/main
 
 
 
