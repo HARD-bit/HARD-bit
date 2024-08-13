@@ -55,6 +55,7 @@ The final outcome was a set of visualizations and reports that provided a clear 
 #### Skills and Tools: 
 Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
 
+
 SQL codes collection:  https://github.com/HARD-bit/SQL/tree/main
 
 
@@ -79,6 +80,11 @@ Empowers users to make informed decisions based on data-driven comparisons and p
 #### Conclusion:
 
 In conclusion, this Python program serves as a valuable tool for individuals seeking to evaluate the pros and cons of electric versus combustion cars. By leveraging data analysis and visualization techniques, users can gain clarity on which type of vehicle aligns best with their budget, usage patterns, and sustainability goals. Whether prioritizing cost efficiency, environmental sustainability, or overall convenience, this program equips users with the information needed to make a well-informed decision when purchasing a new car.
+
+
+Python code: https://github.com/HARD-bit/Python/tree/main
+
+
 
 
 
