@@ -52,9 +52,35 @@ Using the SQL programming languages, applied on Data Cloud System like Salesforc
 
 The final outcome was a set of visualizations and reports that provided a clear overview of the market's current state and potential future developments. This project not only enhanced my coding skills but also deepened my understanding of the automotive industry's dynamics.
 
-Skills and Tools: Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
+#### Skills and Tools: 
+Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
 
 SQL codes collection:  https://github.com/HARD-bit/SQL/tree/main
+
+
+### Comparative Analysis of Electric and Combustion Cars in Python
+
+### Description:
+The primary objective of this Python program is to assist individuals in making informed decisions when considering the purchase of a new vehicle. By comparing the costs and benefits of electric and combustion cars over a specified period, users can gain a deeper understanding of which option may be more cost-effective and environmentally friendly.
+
+#### Key Features:
+
+Input Parameters: The program prompts users to input relevant data such as the cost of the cars, annual mileage, charging/refueling costs, insurance expenses, and maintenance costs.
+Cost Analysis: The program calculates the annual variable and fixed costs associated with owning both electric and combustion cars.
+Break-Even Point: By determining the break-even point between the two car types, users can identify the point at which one option becomes more financially advantageous.
+Visualization: The program generates visualizations, including bar charts and line graphs, to illustrate the cost breakdown and comparison between electric and combustion cars over time.
+
+#### Benefits:
+
+Provides a detailed cost analysis to help users understand the financial implications of choosing between electric and combustion cars.
+Offers valuable insights into the long-term cost savings and environmental impact of each car type.
+Empowers users to make informed decisions based on data-driven comparisons and projections.
+
+#### Conclusion:
+
+In conclusion, this Python program serves as a valuable tool for individuals seeking to evaluate the pros and cons of electric versus combustion cars. By leveraging data analysis and visualization techniques, users can gain clarity on which type of vehicle aligns best with their budget, usage patterns, and sustainability goals. Whether prioritizing cost efficiency, environmental sustainability, or overall convenience, this program equips users with the information needed to make a well-informed decision when purchasing a new car.
+
+
 
 
 
