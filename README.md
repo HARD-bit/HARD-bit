@@ -91,15 +91,14 @@ This project presents a detailed analysis of the sales performance of various au
 
 #### Features
 Sales Overview: A comprehensive dashboard visualizing sales trends across different automotive brands.
-
 Demographic Analysis: Sales data segmented by customer age groups, offering a clear view of which demographics are most engaged.
-
 Geographical Breakdown: Analysis of sales based on regions of residence, highlighting regional preferences and market performance.
-
 Customer Contactability: Insights into how contactability influences sales, helping to identify effective communication channels.
 
 #### Objectives
 The goal of this project is to demonstrate how Power BI can be used to transform raw sales data into actionable insights. The analysis can be valuable for marketing strategies, sales forecasting, and understanding customer behavior across different automotive brands.
+
+#### Final Result
 
 <img width="710" alt="Screenshot 2024-08-17 120251" src="https://github.com/user-attachments/assets/b9ff76ef-6be4-4135-a880-e6b43ff9458a">
 <img width="713" alt="Screenshot 2024-08-17 120612" src="https://github.com/user-attachments/assets/9089f2ad-925c-4573-a91e-31ca3bd3b036">
