@@ -61,7 +61,7 @@ SQL codes collection:  https://github.com/HARD-bit/SQL/tree/main
 
 ### Comparative Analysis of Electric and Combustion Cars in Python
 
-### Description:
+#### Description:
 The primary objective of this Python program is to assist individuals in making informed decisions when considering the purchase of a new vehicle. By comparing the costs and benefits of electric and combustion cars over a specified period, users can gain a deeper understanding of which option may be more cost-effective and environmentally friendly.
 
 #### Key Features:
@@ -86,7 +86,20 @@ Python code: https://github.com/HARD-bit/Python/tree/main
 
 
 
+### Sales Analysis of Automotive Brands with Power BI
+This project presents a detailed analysis of the sales performance of various automotive brands using Power BI. The dataset is segmented by several key parameters, including age, region of residence, and contactability, to provide insights into consumer behavior and trends.
 
+#### Features
+##### Sales Overview: A comprehensive dashboard visualizing sales trends across different automotive brands.
+
+##### Demographic Analysis: Sales data segmented by customer age groups, offering a clear view of which demographics are most engaged.
+
+##### Geographical Breakdown: Analysis of sales based on regions of residence, highlighting regional preferences and market performance.
+
+##### Customer Contactability: Insights into how contactability influences sales, helping to identify effective communication channels.
+
+#### Objectives
+The goal of this project is to demonstrate how Power BI can be used to transform raw sales data into actionable insights. The analysis can be valuable for marketing strategies, sales forecasting, and understanding customer behavior across different automotive brands.
 
 
 
