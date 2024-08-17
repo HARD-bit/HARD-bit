@@ -101,6 +101,12 @@ Customer Contactability: Insights into how contactability influences sales, help
 #### Objectives
 The goal of this project is to demonstrate how Power BI can be used to transform raw sales data into actionable insights. The analysis can be valuable for marketing strategies, sales forecasting, and understanding customer behavior across different automotive brands.
 
+<img width="710" alt="Screenshot 2024-08-17 120251" src="https://github.com/user-attachments/assets/b9ff76ef-6be4-4135-a880-e6b43ff9458a">
+<img width="713" alt="Screenshot 2024-08-17 120612" src="https://github.com/user-attachments/assets/9089f2ad-925c-4573-a91e-31ca3bd3b036">
+<img width="713" alt="Screenshot 2024-08-17 120754" src="https://github.com/user-attachments/assets/859eeec5-1516-4e04-b037-81991b631498">
+<img width="711" alt="Screenshot 2024-08-17 120834" src="https://github.com/user-attachments/assets/f11a32b0-cb2b-4789-accc-ad39df7de1e7">
+
+
 
 
 
