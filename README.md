@@ -87,22 +87,28 @@ Python code: https://github.com/HARD-bit/Python/tree/main
 ### VBA Report Automation for Automotive Campaigns
 
 This repository contains a solution built in VBA (Visual Basic for Applications) that automates the processing and management of reports related to the performance of marketing campaigns for specific automotive brands.
+This project is aimed at optimizing data workflows and enabling faster decision-making in a high-demand industry like automotive marketing.
 
 #### Project Features:
 Report Automation: The code automates the extraction, processing, and cleansing of data from multiple Excel files, minimizing manual intervention.
-Integration with External Files: The project handles the opening of source files from various locations, copies the necessary data, and centralizes it into unified reports for easier analysis.
-Data Filtering and Cleansing: The program filters out redundant or irrelevant information, improving the overall quality of the data and enhancing the reporting process.
-This project is aimed at optimizing data workflows and enabling faster decision-making in a high-demand industry like automotive marketing
 
-VBA code: 
+Integration with External Files: The project handles the opening of source files from various locations, copies the necessary data, and centralizes it into unified reports for easier analysis.
+
+Data Filtering and Cleansing: The program filters out redundant or irrelevant information, improving the overall quality of the data and enhancing the reporting process.
+
+
+VBA code: https://github.com/HARD-bit/Excel-VBA
 
 ### Sales Analysis of Automotive Brands with Power BI
 This project presents a detailed analysis of the sales performance of various automotive brands using Power BI. The dataset is segmented by several key parameters, including age, region of residence, and contactability, to provide insights into consumer behavior and trends.
 
 #### Features
 Sales Overview: A comprehensive dashboard visualizing sales trends across different automotive brands.
+
 Demographic Analysis: Sales data segmented by customer age groups, offering a clear view of which demographics are most engaged.
+
 Geographical Breakdown: Analysis of sales based on regions of residence, highlighting regional preferences and market performance.
+
 Customer Contactability: Insights into how contactability influences sales, helping to identify effective communication channels.
 
 #### Objectives
