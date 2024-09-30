@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Power BI (DAX), C/C++, Excel (VBA)
 
 ## Education							       		
-- B.S., Computer Engineering | Politecnico of Milan (_September 2022-Current_)	 			        		
-- B.S., Communication | The University of Insubria (_May 2022_)
+- B.S. Computer Engineering | Politecnico of Milan (_September 2022-Current_)	 			        		
+- B.S. Communication | The University of Insubria (_May 2022_)
 
 ## Work Experience
 **Data Analyst @ Publicis Groupe (_May 2024 - Present_)**
