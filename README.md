@@ -1,13 +1,23 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Power BI (DAX), C/C++, Excel (VBA)
+#### Technical Skills: Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), C/C++, HTML/CSS, JavaScript, SQL, DAX(Power BI), Git, React, Qlik.
 
 ## Education							       		
 - B.S. Computer Engineering | Politecnico of Milan (_September 2022-Current_)	 			        		
 - B.S. Communication | The University of Insubria (_May 2022_)
 
 ## Work Experience
-**Data Analyst @ Publicis Groupe (_May 2024 - Present_)**
+
+**Data Specialist @ BIOS Management (_Sep 2024 - Present_)**
+- Managed data warehousing operations, optimizing ETL processes to improve data accessibility and reliability, which contributed to a 30%
+reduction in data retrieval time.
+- Streamlined data flow integration using Microsoft Fabric and Apache Spark, ensuring seamless connectivity between various data sources and
+improving overall data processing efficiency by 40%.
+- Conducted in‑depth data analysis using Power BI (DAX) and predictive analytics techniques, leveraging exploratory data analysis (EDA) and
+machine learning with Python, leading to actionable insights that improved forecasting accuracy by 35%.
+
+
+**Data Analyst @ Publicis Groupe (_May 2024 - Sep 2024_)**
 - Conducted comprehensive data cleaning, transformation, and integration on an Excel dataset sourced from 
 Salesforces, resolving issues with dirty data to ensure data accuracy and reliability.
 - Reduced time spent on report generation by saving ~90 hours of monthly labor costs and improved the 
