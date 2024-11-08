@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Specialist
 
 #### Technical Skills: Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), C/C++, HTML/CSS, JavaScript, SQL, DAX(Power BI), Git, React, Qlik.
 
