@@ -120,6 +120,36 @@ Natural Language Processing (NLP): Used to process and interpret the input queri
 
 Scientific Research Data: A vast corpus of academic papers and biological equations used for training the model.
 
+Back-end programmed analysis tool: 
+
+### Libra - Financial Information & Analysis Platform
+Libra is a web-based platform designed to provide users with financial information and interactive financial analysis. Developed using Python, Streamlit, and Dash, the application allows users to visualize and analyze financial data through dynamic, interactive charts and graphs.
+
+#### Key Features:
+Interactive Financial Dashboards: The app provides a series of interactive dashboards that display a variety of financial metrics, such as stock prices, market trends, economic indicators, and more. Users can filter data, zoom in on specific time periods, and explore detailed visualizations.
+
+Data Visualization: Through Dash and Streamlit, the app offers a range of interactive graphs and charts (line charts, bar charts, scatter plots, etc.), enabling users to easily understand financial trends and patterns. Users can hover over data points for more detailed insights and customize the graphs based on their needs.
+
+Real-time Data Integration: The platform integrates with real-time financial data sources to display up-to-date information. Users can access live stock prices, currency exchange rates, and other key financial metrics, which are updated automatically as new data becomes available.
+
+User-Friendly Interface: With a clean, intuitive design, the app provides a user-friendly interface that allows both finance professionals and casual users to easily navigate and interact with the data. No complex configurations are required, and all financial metrics are presented in a simple, digestible format.
+
+Customizable Analysis: Users can customize the financial analysis by selecting specific assets, timeframes, or indicators. The app also provides tools for performing basic statistical analysis on selected datasets, allowing for more in-depth evaluation of financial trends.
+
+#### Technologies Used:
+Python: Core programming language used to handle data processing, analysis, and integration of visualization tools.
+Streamlit: Used for creating the interactive user interface, enabling quick development of the app with minimal code.
+Dash: Used for more advanced, interactive visualizations and building detailed dashboards that allow for user interaction with the data.
+Pandas: For data manipulation and analysis.
+Plotly: For creating dynamic and interactive plots.
+APIs: To fetch real-time financial data from external sources.
+Future Enhancements:
+The future roadmap for the Libra platform includes:
+
+#### Enhanced Analytical Tools: Adding advanced financial analysis features such as portfolio optimization, risk assessments, and forecasting models.
+User Account & Personalization: Implementing user authentication and personalized dashboards, where users can save their settings and preferences for future visits.
+Machine Learning Integration: Incorporating predictive models to forecast stock prices, trends, or economic indicators based on historical data and machine learning algorithms.
+Data Sources Expansion: Adding more diverse financial data sources, such as commodities, cryptocurrencies, and international financial markets.
 ### Automotive Market Data Analysis
 
 #### Description:
