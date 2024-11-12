@@ -71,6 +71,12 @@ Web Application (Dash): A user-friendly web interface built using Dash allows Re
 View the optimal routes on an interactive map.
 Access detailed patient booking information.
 Log in securely to ensure that only authorized personnel can access the data.
+#### Future Enhancements:
+The next phase of the project involves the integration of Artificial Intelligence (AI) to automate the data collection and routing process further. Specifically, we plan to:
+
+Integrate Twilio or similar services to automatically answer patient calls.
+Use speech recognition and NLP (Natural Language Processing) to extract relevant patient information during calls.
+Automatically populate the CSV database with the extracted data, which will then be used in the routing algorithm to improve decision-making.
 #### Technologies Used:
 Python: Backend development and routing logic.
 Dash: Frontend web application to visualize routes and booking data.
