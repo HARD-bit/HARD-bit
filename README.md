@@ -80,6 +80,14 @@ This project improves the efficiency of the Red Cross transportation service by 
 
 Hackathon Web-app: https://github.com/HARD-bit/SmartRoutes.git
 
+![image](https://github.com/user-attachments/assets/6a9d599f-87dd-4c53-9117-1da4bb534084)
+![image](https://github.com/user-attachments/assets/d8d5b6a8-d1ea-47e2-af91-8a85595bd1fb)
+![image](https://github.com/user-attachments/assets/0434a691-f1d9-4adf-bd91-0907a761739a)
+![image](https://github.com/user-attachments/assets/47b970d5-ccb0-4bd0-bd4b-c29b91401ed7)
+
+
+
+
 
 ### Automotive Market Data Analysis
 
