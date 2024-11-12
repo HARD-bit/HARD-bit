@@ -103,6 +103,12 @@ Python Platform: The entire system is built on a Python platform, utilizing ML l
 
 Research Optimization: By automating the process of formula discovery, the platform helps researchers save time and improve the accuracy of their work, enabling faster identification of relevant biological models and equations.
 
+![image](https://github.com/user-attachments/assets/ecfd9f31-b0c9-433e-84d1-1c52af6a0674)
+![image](https://github.com/user-attachments/assets/7b273f36-1fe2-4848-ba1a-cb2188d143a6)
+![image](https://github.com/user-attachments/assets/0ea206ee-07c5-48c3-b207-aa2e52511635)
+
+
+
 #### Future Enhancements:
 The next steps for the project involve enhancing the capabilities of the system, including:
 
