@@ -91,9 +91,29 @@ Hackathon Web-app: https://github.com/HARD-bit/SmartRoutes.git
 ![image](https://github.com/user-attachments/assets/0434a691-f1d9-4adf-bd91-0907a761739a)
 ![image](https://github.com/user-attachments/assets/47b970d5-ccb0-4bd0-bd4b-c29b91401ed7)
 
+### LMM-based Equation Search Platform for Biological Research
+This project, developed during a hackathon in collaboration with ETH Lausanne and SDCD, focuses on leveraging Machine Learning (ML) to assist researchers in the field of biological equations. The goal was to create a Python-based platform that integrates a Language Model (LMM) trained on a vast dataset of academic biological research, enabling researchers to optimize their search for relevant mathematical formulas.
 
+#### Key Features:
+Language Model Integration: A Large Language Model (LMM) is trained on an extensive corpus of academic papers and research articles related to biological equations. The model is designed to recognize and predict mathematical formulas based on natural language queries.
 
+Optimized Search Engine: Researchers can input keywords or phrases related to their area of interest. The platform's ML algorithm will then search through the trained dataset to identify the most relevant mathematical formulas or equations, suggesting the ones that are most likely related to the query.
 
+Python Platform: The entire system is built on a Python platform, utilizing ML libraries like TensorFlow or PyTorch for model training and fine-tuning. The system provides an easy-to-use interface where users can input research queries and receive results based on the model’s predictions.
+
+Research Optimization: By automating the process of formula discovery, the platform helps researchers save time and improve the accuracy of their work, enabling faster identification of relevant biological models and equations.
+
+#### Future Enhancements:
+The next steps for the project involve enhancing the capabilities of the system, including:
+
+Continuous Model Training: Expanding the dataset with additional research papers and fine-tuning the model to improve the accuracy of formula predictions.
+Interactive Query Interface: Developing an advanced user interface that allows researchers to input complex queries and visualize mathematical formulas directly within the platform.
+Integration with Scientific Databases: Connecting the platform with existing scientific databases to provide access to the latest research and continually update the corpus for the model’s training.
+Technologies Used:
+Python: Core platform for integrating the ML model and implementing the search algorithm.
+TensorFlow / PyTorch: Machine Learning libraries for training the Large Language Model (LMM).
+Natural Language Processing (NLP): Used to process and interpret the input queries.
+Scientific Research Data: A vast corpus of academic papers and biological equations used for training the model.
 
 ### Automotive Market Data Analysis
 
