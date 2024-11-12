@@ -107,9 +107,9 @@ Research Optimization: By automating the process of formula discovery, the platf
 The next steps for the project involve enhancing the capabilities of the system, including:
 
 Continuous Model Training: Expanding the dataset with additional research papers and fine-tuning the model to improve the accuracy of formula predictions.
-Interactive Query Interface: Developing an advanced user interface that allows researchers to input complex queries and visualize mathematical formulas directly within the platform.
+Interactive Query Interface: Developing an advanced user interface that allows researchers to input complex queries and visualize mathematical formulas directly within the platform
 Integration with Scientific Databases: Connecting the platform with existing scientific databases to provide access to the latest research and continually update the corpus for the model’s training.
-Technologies Used:
+#### Technologies Used:
 Python: Core platform for integrating the ML model and implementing the search algorithm.
 TensorFlow / PyTorch: Machine Learning libraries for training the Large Language Model (LMM).
 Natural Language Processing (NLP): Used to process and interpret the input queries.
