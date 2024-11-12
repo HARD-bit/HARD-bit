@@ -120,7 +120,7 @@ Natural Language Processing (NLP): Used to process and interpret the input queri
 
 Scientific Research Data: A vast corpus of academic papers and biological equations used for training the model.
 
-Back-end programmed analysis tool: 
+Back-end programmed analysis tool: https://github.com/francescolosterzo/dufourspitze_16.git
 
 ### Libra - Financial Information & Analysis Platform
 Libra is a web-based platform designed to provide users with financial information and interactive financial analysis. Developed using Python, Streamlit, and Dash, the application allows users to visualize and analyze financial data through dynamic, interactive charts and graphs.
@@ -138,17 +138,24 @@ Customizable Analysis: Users can customize the financial analysis by selecting s
 
 #### Technologies Used:
 Python: Core programming language used to handle data processing, analysis, and integration of visualization tools.
-Streamlit: Used for creating the interactive user interface, enabling quick development of the app with minimal code.
-Dash: Used for more advanced, interactive visualizations and building detailed dashboards that allow for user interaction with the data.
-Pandas: For data manipulation and analysis.
-Plotly: For creating dynamic and interactive plots.
-APIs: To fetch real-time financial data from external sources.
-Future Enhancements:
-The future roadmap for the Libra platform includes:
 
-#### Enhanced Analytical Tools: Adding advanced financial analysis features such as portfolio optimization, risk assessments, and forecasting models.
+Streamlit: Used for creating the interactive user interface, enabling quick development of the app with minimal code.
+
+Dash: Used for more advanced, interactive visualizations and building detailed dashboards that allow for user interaction with the data.
+
+Pandas: For data manipulation and analysis.
+
+Plotly: For creating dynamic and interactive plots.
+
+APIs: To fetch real-time financial data from external sources.
+
+#### Future Enhancements:
+Enhanced Analytical Tools: Adding advanced financial analysis features such as portfolio optimization, risk assessments, and forecasting models.
+
 User Account & Personalization: Implementing user authentication and personalized dashboards, where users can save their settings and preferences for future visits.
+
 Machine Learning Integration: Incorporating predictive models to forecast stock prices, trends, or economic indicators based on historical data and machine learning algorithms.
+
 Data Sources Expansion: Adding more diverse financial data sources, such as commodities, cryptocurrencies, and international financial markets.
 ### Automotive Market Data Analysis
 
