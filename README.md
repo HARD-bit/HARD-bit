@@ -53,6 +53,31 @@ the knowledge and skill set of team members by over 30%.
 3 minutes.
 
 ## Projects
+
+### Red Cross Bolzano Patient Booking & Routing System
+#### Description:
+This project, developed during a hackathon, aims to assist the Red Cross of Bolzano in optimizing their patient transportation service. The system is built with a Python-based backend and integrates a series of technologies to streamline the booking and routing process for medical transport.
+
+#### Key Features:
+Patient Booking: The system registers relevant patient booking details (such as appointment time, date, and specific needs) into a CSV file for easy access and management.
+
+Routing Algorithm: A routing algorithm is used to determine the optimal path for each vehicle. It takes into account various factors, including:
+
+Similar patient profiles (same day, same time range)
+Specific disabilities or mobility needs
+Historical booking data for efficient vehicle allocation.
+Web Application (Dash): A user-friendly web interface built using Dash allows Red Cross personnel to:
+
+View the optimal routes on an interactive map.
+Access detailed patient booking information.
+Log in securely to ensure that only authorized personnel can access the data.
+#### Technologies Used:
+Python: Backend development and routing logic.
+Dash: Frontend web application to visualize routes and booking data.
+CSV: Data storage for booking information.
+This project improves the efficiency of the Red Cross transportation service by providing optimized routes based on patient needs, helping reduce travel time and costs while improving service delivery.
+
+
 ### Automotive Market Data Analysis
 
 #### Description:
