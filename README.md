@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5395d9b4-9cfb-498b-b0f8-da96441750d2)# Data Specialist
+# Data Specialist
 
 #### Technical Skills: Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), C/C++, HTML/CSS, JavaScript, SQL, DAX(Power BI), Git, React, Qlik.
 
