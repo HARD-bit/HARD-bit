@@ -1,4 +1,4 @@
-# Data Specialist
+![image](https://github.com/user-attachments/assets/5395d9b4-9cfb-498b-b0f8-da96441750d2)# Data Specialist
 
 #### Technical Skills: Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), C/C++, HTML/CSS, JavaScript, SQL, DAX(Power BI), Git, React, Qlik.
 
@@ -76,6 +76,8 @@ Python: Backend development and routing logic.
 Dash: Frontend web application to visualize routes and booking data.
 CSV: Data storage for booking information.
 This project improves the efficiency of the Red Cross transportation service by providing optimized routes based on patient needs, helping reduce travel time and costs while improving service delivery.
+
+Hackathon Web-app link:
 
 
 ### Automotive Market Data Analysis
