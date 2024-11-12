@@ -163,21 +163,6 @@ User Account & Personalization: Implementing user authentication and personalize
 Machine Learning Integration: Incorporating predictive models to forecast stock prices, trends, or economic indicators based on historical data and machine learning algorithms.
 
 Data Sources Expansion: Adding more diverse financial data sources, such as commodities, cryptocurrencies, and international financial markets.
-### Automotive Market Data Analysis
-
-#### Description:
-In this project, I developed a code-based solution to extract and analyze key information related to the automotive market. The objective was to gather relevant data from various sources, process it, and generate insights into market trends, consumer preferences, and competitive landscapes.
-
-Using the SQL programming languages, applied on Data Cloud System like Salesforces, I implemented data scraping techniques to collect information on vehicle models, pricing, sales figures, and other industry-specific metrics. The data was then cleaned, organized, and analyzed to identify patterns and opportunities within the automotive sector.
-
-The final outcome was a set of visualizations and reports that provided a clear overview of the market's current state and potential future developments. This project not only enhanced my coding skills but also deepened my understanding of the automotive industry's dynamics.
-
-#### Skills and Tools: 
-Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
-
-
-SQL codes collection:  https://github.com/HARD-bit/SQL/tree/main
-
 
 ### Comparative Analysis of Electric and Combustion Cars in Python
 
@@ -204,20 +189,6 @@ In conclusion, this Python program serves as a valuable tool for individuals see
 
 Python code: https://github.com/HARD-bit/Python/tree/main
 
-### VBA Report Automation for Automotive Campaigns
-
-This repository contains a solution built in VBA (Visual Basic for Applications) that automates the processing and management of reports related to the performance of marketing campaigns for specific automotive brands.
-This project is aimed at optimizing data workflows and enabling faster decision-making in a high-demand industry like automotive marketing.
-
-#### Project Features:
-Report Automation: The code automates the extraction, processing, and cleansing of data from multiple Excel files, minimizing manual intervention.
-
-Integration with External Files: The project handles the opening of source files from various locations, copies the necessary data, and centralizes it into unified reports for easier analysis.
-
-Data Filtering and Cleansing: The program filters out redundant or irrelevant information, improving the overall quality of the data and enhancing the reporting process.
-
-
-VBA code: https://github.com/HARD-bit/Excel-VBA
 
 ### Sales Analysis of Automotive Brands with Power BI
 This project presents a detailed analysis of the sales performance of various automotive brands using Power BI. The dataset is segmented by several key parameters, including age, region of residence, and contactability, to provide insights into consumer behavior and trends.
@@ -240,6 +211,37 @@ The goal of this project is to demonstrate how Power BI can be used to transform
 <img width="713" alt="Screenshot 2024-08-17 120612" src="https://github.com/user-attachments/assets/9089f2ad-925c-4573-a91e-31ca3bd3b036">
 <img width="713" alt="Screenshot 2024-08-17 120754" src="https://github.com/user-attachments/assets/859eeec5-1516-4e04-b037-81991b631498">
 <img width="711" alt="Screenshot 2024-08-17 120834" src="https://github.com/user-attachments/assets/f11a32b0-cb2b-4789-accc-ad39df7de1e7">
+
+### VBA Report Automation for Automotive Campaigns
+
+This repository contains a solution built in VBA (Visual Basic for Applications) that automates the processing and management of reports related to the performance of marketing campaigns for specific automotive brands.
+This project is aimed at optimizing data workflows and enabling faster decision-making in a high-demand industry like automotive marketing.
+
+#### Project Features:
+Report Automation: The code automates the extraction, processing, and cleansing of data from multiple Excel files, minimizing manual intervention.
+
+Integration with External Files: The project handles the opening of source files from various locations, copies the necessary data, and centralizes it into unified reports for easier analysis.
+
+Data Filtering and Cleansing: The program filters out redundant or irrelevant information, improving the overall quality of the data and enhancing the reporting process.
+
+
+VBA code: https://github.com/HARD-bit/Excel-VBA
+
+### Automotive Market Data Analysis
+
+#### Description:
+In this project, I developed a code-based solution to extract and analyze key information related to the automotive market. The objective was to gather relevant data from various sources, process it, and generate insights into market trends, consumer preferences, and competitive landscapes.
+
+Using the SQL programming languages, applied on Data Cloud System like Salesforces, I implemented data scraping techniques to collect information on vehicle models, pricing, sales figures, and other industry-specific metrics. The data was then cleaned, organized, and analyzed to identify patterns and opportunities within the automotive sector.
+
+The final outcome was a set of visualizations and reports that provided a clear overview of the market's current state and potential future developments. This project not only enhanced my coding skills but also deepened my understanding of the automotive industry's dynamics.
+
+#### Skills and Tools: 
+Data Scraping, SQL, Data Analysis, Data Visualization, Automotive Industry Insights
+
+
+SQL codes collection:  https://github.com/HARD-bit/SQL/tree/main
+
 
 
 
