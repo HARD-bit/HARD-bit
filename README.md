@@ -79,8 +79,11 @@ Use speech recognition and NLP (Natural Language Processing) to extract relevant
 Automatically populate the CSV database with the extracted data, which will then be used in the routing algorithm to improve decision-making.
 #### Technologies Used:
 Python: Backend development and routing logic.
+
 Dash: Frontend web application to visualize routes and booking data.
+
 CSV: Data storage for booking information.
+
 This project improves the efficiency of the Red Cross transportation service by providing optimized routes based on patient needs, helping reduce travel time and costs while improving service delivery.
 
 
