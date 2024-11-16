@@ -156,6 +156,7 @@ Pandas: For data manipulation and analysis.
 
 Plotly: For creating dynamic and interactive plots.
 
+
 APIs: To fetch real-time financial data from external sources.
 
 #### Future Enhancements:
@@ -166,6 +167,8 @@ User Account & Personalization: Implementing user authentication and personalize
 Machine Learning Integration: Incorporating predictive models to forecast stock prices, trends, or economic indicators based on historical data and machine learning algorithms.
 
 Data Sources Expansion: Adding more diverse financial data sources, such as commodities, cryptocurrencies, and international financial markets.
+
+![MacBook Pro 14_ - 1](https://github.com/user-attachments/assets/7c4f8a60-0765-4d60-ae21-001af6764c98)
 
 ### Comparative Analysis of Electric and Combustion Cars in Python
 
