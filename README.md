@@ -79,6 +79,10 @@ The Women Safety Companion App is a safety application designed to assist women 
 - Folium & Pandas: Used to display geographic data on maps, including dangerous areas and user-reported data.
 - Groq: Powers AI responses based on user emotions and situational inputs, simulating a conversational interaction.
 - Time: Simulates action delays, such as connecting to emergency services, to replicate real-world processes.
+ 
+Hackathon Web-app: https://github.com/HARD-bit/SmartRoutes.git
+
+
 
 ![image](https://github.com/user-attachments/assets/7ff54429-9c1e-4663-b9f0-eb3480d32a0f)
 
