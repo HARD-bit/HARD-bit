@@ -54,6 +54,36 @@ the knowledge and skill set of team members by over 30%.
 
 ## Projects
 
+# Women Safety Companion App
+
+The Women Safety Companion App is a safety application designed to assist women when traveling alone, especially on short journeys. It aims to offer both emotional support and real-time safety features to help users feel secure while moving through potentially risky areas.
+
+### Objectives
+
+- Ensure Safety: Provide a real-time map that highlights areas with higher crime rates, allowing users to avoid potential risks.
+- Offer Emotional Support: Implement an AI-driven interface that simulates a human conversation, offering companionship and support during the user's journey.
+- Enable Emergency Assistance: Facilitate easy access to emergency services when needed, with a simulated delay to mimic real-world response times.
+- Encourage Community Connection: Allow users to connect with others who are available for companionship, enhancing the feeling of safety through mutual support.
+
+### Key Features
+
+1. AI Companion: An AI-powered conversational interface that interacts with the user, providing emotional support and keeping them company during their travel.
+2. Dangerous Area Map: A real-time map displaying high-risk zones in the city based on crime statistics and user reports, helping users avoid dangerous areas.
+3. User-to-User Interaction: The ability for users to connect with others in real-time, ensuring they aren't alone during their journey and fostering a sense of shared safety.
+4. Emergency Services Access: A feature that allows users to contact emergency services with a simulated delay, mimicking real-world response times and ensuring fast assistance when needed.
+
+## Tech Stack
+
+- Streamlit: Used to build the app's user interface, handle user input, and display maps and chat features.
+- Requests: Fetches real-time data for route calculations, crime statistics, and user input.
+- Folium & Pandas: Used to display geographic data on maps, including dangerous areas and user-reported data.
+- Groq: Powers AI responses based on user emotions and situational inputs, simulating a conversational interaction.
+- Time: Simulates action delays, such as connecting to emergency services, to replicate real-world processes.
+
+  ![image](https://github.com/user-attachments/assets/66d17dea-8e27-4931-9ab7-05bc563a4f05)
+
+
+
 ### Red Cross Bolzano Patient Booking & Routing System
 #### Description:
 This project, developed during a hackathon, aims to assist the Red Cross of Bolzano in optimizing their patient transportation service. The system is built with a Python-based backend and integrates a series of technologies to streamline the booking and routing process for medical transport.
