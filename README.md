@@ -80,7 +80,8 @@ The Women Safety Companion App is a safety application designed to assist women 
 - Groq: Powers AI responses based on user emotions and situational inputs, simulating a conversational interaction.
 - Time: Simulates action delays, such as connecting to emergency services, to replicate real-world processes.
 
-  ![image](https://github.com/user-attachments/assets/66d17dea-8e27-4931-9ab7-05bc563a4f05)
+![image](https://github.com/user-attachments/assets/7ff54429-9c1e-4663-b9f0-eb3480d32a0f)
+
 
 
 
