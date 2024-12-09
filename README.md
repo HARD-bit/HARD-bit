@@ -84,7 +84,7 @@ The Women Safety Companion App is a safety application designed to assist women 
  
  Time: Simulates action delays, such as connecting to emergency services, to replicate real-world processes.
  
-Hackathon Web-app: https://github.com/HARD-bit/SmartRoutes.git
+Hackathon Web-app: https://github.com/HARD-bit/gaia.git
 
 
 
