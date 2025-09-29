@@ -7,8 +7,15 @@
 - B.S. Communication | The University of Insubria (_May 2022_)
 
 ## Work Experience
+**Software developer @ Apache Software Foundation (_Sep 2024 - present_)**
+- Contributed to 15+ approved pull requests on Apache Spark, improving core module efficiency with an average 12% boost in distributed
+   query performance tested on 100-node clusters (tools: Scala, Java, PySpark).
+- Developed and optimized 20+ automated test cases using JUnit and PyTest, increasing code coverage by 18% and
+   reducing regression time by 25% through CI/CD pipelines with Jenkins and GitHub Actions.
+- Investigated and resolved 30+ community-reported bugs, cutting average resolution time by 40% via profiling
+  with JVM Flight Recorder and issue tracking on JIRA integrated with Git.
 
-**Data Specialist @ BIOS Management (_Sep 2024 - Present_)**
+**Data Specialist @ BIOS Management (_Sep 2024 - Gen 2025_)**
 - Managed data warehousing operations, optimizing ETL processes to improve data accessibility and reliability, which contributed to a 30%
 reduction in data retrieval time.
 - Streamlined data flow integration using Microsoft Fabric and Apache Spark, ensuring seamless connectivity between various data sources and
