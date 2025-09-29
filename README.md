@@ -7,7 +7,7 @@
 - B.S. Communication | The University of Insubria (_May 2022_)
 
 ## Work Experience
-**Software developer @ Apache Software Foundation (_Sep 2024 - present_)**
+**Software developer @ Apache Software Foundation (_Aug 2025 - present_)**
 - Contributed to 15+ approved pull requests on Apache Spark, improving core module efficiency with an average 12% boost in distributed
    query performance tested on 100-node clusters (tools: Scala, Java, PySpark).
 - Developed and optimized 20+ automated test cases using JUnit and PyTest, increasing code coverage by 18% and
