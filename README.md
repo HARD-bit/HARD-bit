@@ -8,9 +8,10 @@
 
 ## Work Experience
 **Data Engineer @ Lodestar (_May 2026 - present_)**
-- Data engineer/architect on client engagements at Lodestar, including Infineum (Data Architecture Team) and Amico Shipyard.
-- Infineum: sole architect of an Azure-based FinOps cost-governance platform (Data Factory, Data Explorer/Kusto, Power BI/DAX) used to drive Reserved Instance / Savings Plan purchasing decisions; diagnosed and resolved a multi-week production data outage.
-- Amico Shipyard: led structural discovery and built a SHA2-256 hash-based reconciliation framework to compare data across 4 independent ERP databases as part of a multi-site consolidation project.
+- Designed and built an Azure-based FinOps cost-governance platform end-to-end for an enterprise client - from Data Factory/ADLS Gen2 ingestion to a 14-table Power BI/DAX semantic model on Azure Data Explorer (Kusto) - processing 2.9M+ cost records across 13+ months of Azure spend to drive Reserved Instance / Savings Plan purchasing decisions for IT leadership.
+- Diagnosed and resolved a 5-week silent production outage and a data-loss bug in the FinOps ETL pipeline, restoring full data integrity with zero permanent loss and redesigning identity/access (Entra ID RBAC) to remove single-person dependency risk.
+- Led multi-site data reconciliation for a shipyard group client, building a SHA2-256 hash-based comparison engine in T-SQL across 4 independent SQL Server ERP databases (~800GB, 700+ tables) and automating Microsoft Fabric Data Factory pipelines via REST API, surfacing and fixing a production data-duplication bug.
+- Applied DevOps and Infrastructure-as-Code practices (Git/GitHub, CI/CD, Terraform, containerized workloads) to standardize delivery across data warehouse and lakehouse environments on Azure/Fabric for both engagements.
 
 **Software developer @ Apache Software Foundation (_Aug 2025 - present_)**
 - Contributed to 15+ approved pull requests on Apache Spark, improving core module efficiency with an average 12% boost in distributed
