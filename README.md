@@ -7,6 +7,11 @@
 - B.S. Communication | The University of Insubria (_May 2022_)
 
 ## Work Experience
+**Data Engineer @ Lodestar (_May 2026 - present_)**
+- Data engineer/architect on client engagements at Lodestar, including Infineum (Data Architecture Team) and Amico Shipyard.
+- Infineum: sole architect of an Azure-based FinOps cost-governance platform (Data Factory, Data Explorer/Kusto, Power BI/DAX) used to drive Reserved Instance / Savings Plan purchasing decisions; diagnosed and resolved a multi-week production data outage.
+- Amico Shipyard: led structural discovery and built a SHA2-256 hash-based reconciliation framework to compare data across 4 independent ERP databases as part of a multi-site consolidation project.
+
 **Software developer @ Apache Software Foundation (_Aug 2025 - present_)**
 - Contributed to 15+ approved pull requests on Apache Spark, improving core module efficiency with an average 12% boost in distributed
    query performance tested on 100-node clusters (tools: Scala, Java, PySpark).
