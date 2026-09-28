@@ -1,6 +1,6 @@
 # Data Engineer
 
-From firefighter to Data Engineer, a path built on staying calm under pressure, trusting data to drive fast decisions, and not backing down from hard problems. I build cloud-based data platforms end-to-end, from ingestion to BI-ready models, with hands-on experience across Azure, Apache Spark, and modern data architectures. Currently building toward an international Data Engineering career, open to opportunities across Europe.
+From firefighter to Data Engineer, a path built on staying calm under pressure, trusting data to drive fast decisions, and not backing down from hard problems. I build cloud-based data platforms end-to-end, from ingestion to BI-ready models, with hands-on experience across Azure, Apache Spark, and modern data architectures.
 
 #### Technical Skills: Python (Pandas, PyTorch, NumPy, Scikit‑learn, PySpark etc.), T-SQL, C/C++, HTML/CSS, JavaScript, DAX, Git, React, Qlik, Azure (Data Factory, Databricks, Data Explorer/Kusto, ADLS Gen2, Entra ID), Microsoft Fabric, Terraform, Docker, CI/CD, DevOps, FinOps.
 
